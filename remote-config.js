@@ -18,11 +18,11 @@
     }
   ],
   "version":{
-    "version_number": "1",
+    "version_number": "42",
     "update_time":"2018-05-11T18:46:40Z",
     "update_user":{
-      "name":"Jegan Matthews",
-      "email":"jematthe@starbucks.com",
+      "name":"Jane Developer",
+      "email":"jane@developer.org",
       "imageUrl":"http://image.google.com/path-to-profile-photo-for-jane"
     },
     "description":"Adding welcome messages",
