@@ -25,7 +25,7 @@
       "email":"jane@developer.org",
       "imageUrl":"http://image.google.com/path-to-profile-photo-for-jane"
     },
-    "description":"Adding welcome messages. Back back back",
+    "description":"Adding welcome messages. Horsing around",
     "origin":"CONSOLE",
     "update_type":"INCREMENTAL_UPDATE"
   }
