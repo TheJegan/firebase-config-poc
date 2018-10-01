@@ -1,7 +1,7 @@
 {
   "parameters":[
     {
-      "key":"welcome_message",
+      "key":"favorite_coffee",
       "value_options":[
         {
           "value":"Welcome to this sample app again"
