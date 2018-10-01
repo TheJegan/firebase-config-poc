@@ -4,7 +4,7 @@
       "key":"favorite_coffee",
       "value_options":[
         {
-          "value":"Welcome to this sample app again. Update."
+          "value":"Welcome to this sample app again. Update.sdfs"
         }
       ]
     },
