@@ -1,4 +1,13 @@
 {
+   "conditions": [{
+    "name": "android_english",
+    "expression": "device.os == 'android' && device.country in ['us', 'uk']",
+    "tagColor": "BLUE"
+  }, {
+    "name": "tenPercent",
+    "expression": "percent <= 10",
+    "tagColor": "BROWN"
+  }],
   "parameters":[
     {
       "key":"favorite_coffee",
