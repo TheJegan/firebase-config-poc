@@ -13,7 +13,7 @@
       "key":"favorite_coffee",
       "value_options":[
         {
-          "value":"Welcome to this applications"
+          "value":"Coffee Bean"
         }
       ]
     }
