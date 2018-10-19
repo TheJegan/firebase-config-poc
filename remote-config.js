@@ -13,7 +13,7 @@
       "key":"favorite_coffee",
       "value_options":[
         {
-          "value":"Coffee Bean"
+          "value":"Coffee Beans"
         }
       ]
     }
