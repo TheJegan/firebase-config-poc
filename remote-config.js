@@ -16,14 +16,6 @@
           "value":"Welcome to this applications"
         }
       ]
-    },
-    {
-      "key":"welcome_message_caps",
-      "value_options":[
-        {
-          "value":"false"
-        }
-      ]
     }
   ],
   "version":{
